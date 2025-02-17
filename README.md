@@ -55,7 +55,7 @@ This project focuses on building a **real-time Twitter analytics dashboard** usi
 
 ## **Repository and Files**
 Find all project files, datasets, and Power BI reports in the GitHub repository:
-[GitHub Repository](https://github.com/deepbodkhe/Twitter-Analytics-Dashboard)
+[GitHub Repository]([https://github.com/deepbodkhe/Twitter-Analytics-Dashboard](https://github.com/deepbodkhe/Nullclass-Internship/blob/main/Twitter%20Analysis%20Dashboard%20All%20Task.pbix))
 
 ## **Contact**
 For any queries or contributions, feel free to reach out via GitHub.
